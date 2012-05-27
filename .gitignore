@@ -4,7 +4,6 @@
 ## misc
 loaddefs.el*
 auto-save-list
-custom.el
 places
 .svn
 .DS_Store
@@ -14,12 +13,9 @@ tramp
 backups/*
 thumbs/*
 oddmuse/*
-eshell/*
 image-dired/*
 elim/*
 doc/*
-elpa/*
-src/*
 themes/*
 url/*
 
